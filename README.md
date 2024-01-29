@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Article
+
+- https://medium.com/itnext/5-advanced-data-fetching-techniques-in-react-for-enhanced-user-experience-881195f67692
+
